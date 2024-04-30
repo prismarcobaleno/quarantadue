@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="it">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>con css</title>
+    <link href="./s.css" rel="stylesheet" type="text/css" media="all">
+     
+    <meta property="og:description" content=" "> 
+    
+    <link rel="icon" type="image/png" href="https://www.tradizionipopolariaulos.com/cartesiciliane/particolari/lovufrittu.jpg" >
+
+
+	</head>
+	<body> <center>
+ <div>
+    <h1>Qualcosa</h1>
+ 
+    </div>
+    <hr> 
+    <br>
+
+
+<main><table>
+
+<tbody><tr>
+
+<th class="r">Giusto
+</th>
+<th class="v">Sbagliato
+</th></tr> 
+<tr>
+
+
+
+<th class="v">Rosso
+</th>
+<th class="r">Verde
+</th>
+</tr>
+
+
+
+</tbody>      </table></main>
+              
+   <br>  
+                             
+      </center>  </body>
+</html>
+
