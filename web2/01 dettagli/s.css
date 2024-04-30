@@ -25,7 +25,9 @@ li.s {list-style-image: url(https://www.splitbrain.org/_static/ico/ledicons/ico/
 
 li.c {list-style-image: url(https://www.splitbrain.org/_static/ico/ledicons/ico/star_2.png);}
 
-
+img.stai {
+background-attachment: fixed;
+}
 
 div {
 margin: 10%;
